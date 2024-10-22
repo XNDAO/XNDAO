@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Alexandre, a student looking to evolve till I'm an experienced coder. Currently know CSS, HTML and already started JavaScript and during an internship in bioinformatics and learned basic Python.
+I'm Alexandre, a student looking to evolve till I'm an experienced coder. Currently know CSS, HTML and already started JavaScript and during an internship in bioinformatics I learned basic Python.
 One of my multiple goals involves the idea to create and post constantly new projects and improvements where there is space to improve.
 Another goal is to expand my knowledge to start making games, my first thought says it's going to be a hobby but only the future will answear if it'll become my main goal or not.
 
