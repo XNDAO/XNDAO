@@ -9,8 +9,6 @@ Another goal is to expand my knowledge to start making games, my first thought s
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python-logo">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XNDAO&show_icons=true&theme=radical)](https://github.com/XNDAO/github-readme-stats)
 
 ### Feel free to contact me:
