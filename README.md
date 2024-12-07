@@ -9,6 +9,8 @@ Another goal is to expand my knowledge to start making games, my first thought s
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python-logo">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XNDAO&hide=contribs,prs)
+
 ### Feel free to contact me:
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-logo">  xandeag
 <br>
