@@ -11,6 +11,8 @@ Another goal is to expand my knowledge to start making games, my first thought s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XNDAO&hide=contribs,prs)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XNDAO)](https://github.com/XNDAO/github-readme-stats)
+
 ### Feel free to contact me:
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-logo">  xandeag
 <br>
