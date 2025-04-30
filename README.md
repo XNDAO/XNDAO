@@ -4,10 +4,7 @@ One of my multiple goals involves the idea to create and post constantly new pro
 Another goal is to expand my knowledge to start making games, my first thought says it's going to be a hobby but only the future will answear if it'll become my main goal or not.
 
 ## My knowledge:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo"> 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python-logo">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XNDAO&show_icons=true&theme=merko)](https://github.com/XNDAO/github-readme-stats)
 
