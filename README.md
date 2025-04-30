@@ -1,7 +1,5 @@
 # Hi there 👋
-I'm Alexandre, a student looking to evolve till I'm an experienced coder. Currently know CSS, HTML and already started JavaScript and during an internship in bioinformatics I learned basic Python.
-One of my multiple goals involves the idea to create and post constantly new projects and improvements where there is space to improve.
-Another goal is to expand my knowledge to start making games, my first thought says it's going to be a hobby but only the future will answear if it'll become my main goal or not.
+I am a web developer with a strong focus on front-end development. My expertise ranges from foundational technologies like HTML and CSS to advanced frameworks such as React and Node.js. Additionally, I utilize Figma to craft clean and functional designs, ensuring seamless collaboration between design and development. I’m passionate about turning ideas into user-friendly digital solutions.
 
 ## My knowledge:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react)](https://skillicons.dev)
